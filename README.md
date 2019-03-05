@@ -1,3 +1,3 @@
 # Presentations
 
-Slides of presentations I've gave
+Slides of presentations I have given
